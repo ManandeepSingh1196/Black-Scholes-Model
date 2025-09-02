@@ -1,3 +1,6 @@
+#include<iostream>
+#include<cmath>
+
 #include "BSModel.h"
 
 BSModel::BSModel()
